@@ -6,7 +6,8 @@ A testing ground for my journey in learning Electron.
 
 ##Todo/possible projects:
 
-1) Create a bitcoin ticker in electron.
+1) Create a bitcoin ticker in electron. (done)
+2) Create a jumbocash ticker in electron.
 
 ##Tutorials/useful links:
 
