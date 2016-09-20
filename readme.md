@@ -11,6 +11,8 @@ A testing ground for my journey in learning Electron.
 
 ##Tutorials/useful links:
 
+https://github.com/electron/electron-api-demos/blob/master/docs.md
+
 https://github.com/sindresorhus/awesome-electron
 
 http://electron.atom.io/docs/tutorial/quick-start/
